@@ -1,0 +1,13 @@
+@import "./styles/reset";
+@import "./components/components";
+@import "./Pages/pages";
+  
+* {
+    box-sizing: border-box;
+}
+html,
+body {
+    background-color: #f1f1f1;
+    font-family: 'Raleway', sans-serif;
+    height: 100vh;
+}

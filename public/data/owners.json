@@ -1,0 +1,47 @@
+{
+    "owners": [
+        {
+            "id": 1,
+            "name": "Артур",
+            "lastname": "Юс",
+            "points": "50"
+        },
+        {
+            "id": 2,
+            "name": "Жанна",
+            "lastname": "Котлінська",
+            "points": "94"
+        },
+        {
+            "id": 3,
+            "name": "Юлія",
+            "lastname": "Корж",
+            "points": "67"
+        },
+        {
+            "id": 4,
+            "name": "Богдан",
+            "lastname": "Синовій",
+            "points": "25"
+        },
+        {
+            "id": 5,
+            "name": "Катря",
+            "lastname": "Грай",
+            "points": "45"
+        },
+        {
+            "id": 8,
+            "name": "Анна",
+            "lastname": "Дармограй",
+            "points": "99"
+        },
+        {
+            "id": 9,
+            "name": "Ірина",
+            "lastname": "Шило",
+            "points": "96"
+        }
+    ]
+           
+}
