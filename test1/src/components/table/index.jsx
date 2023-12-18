@@ -9,7 +9,9 @@ import SortSVG from '../../icons/sort';
 function Table() {
   const initialOwners = useSelector((state) => state.data.owners);
   const fact = useSelector((state) => state.fact.fact);
+
   const dispatch = useDispatch();
+  
   const [isFactVisible, setIsFactVisible] = useState(false);
   const [sortDirection, setSortDirection] = useState('asc');
   const [owners, setOwners] = useState(initialOwners);

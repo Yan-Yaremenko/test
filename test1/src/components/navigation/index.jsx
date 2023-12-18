@@ -1,6 +1,7 @@
 import TreeSVG from '../../icons/tree';
 import TruckSVG from '../../icons/truck';
 import ScaleSVG from '../../icons/scale';
+
 function Navigation() {
   return (
     <nav className='navbar'>
