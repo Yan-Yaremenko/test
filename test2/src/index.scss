@@ -1,0 +1,32 @@
+@import "./styles/reset";
+@import "./components/components";  
+
+html,
+body {
+    background-color: #d5c6b3;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+  .light-theme {
+    background-color: #d5c6b3;
+    color: #000000;
+  }
+  
+  .dark-theme {
+    background-color: #333333;
+    color: #ffffff;
+    & html {
+        background-color: #333333;
+    }
+    & .table-columns__cell {
+        background-color: #424242;
+    }
+    & .table-cats__cell {
+        background-color: #424242;
+    }
+    & .header, .button-add {
+        background-color: #424242;
+    }
+  }
